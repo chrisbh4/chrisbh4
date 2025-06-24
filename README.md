@@ -1,8 +1,8 @@
 # 👋 Hey, I’m Christian Brown
 
-I'm a Full-Stack Software Engineer based in Sacramento, CA, with a passion for building high-impact applications and scalable backend systems. I thrive in fast-paced environments where clear communication, collaboration, and rapid iteration drive real outcomes.
+I'm a Full-Stack Software Engineer based in Sacramento, CA, with a passion for building high impact applications and scalable backend systems. I thrive in fast paced environments where clear communication, collaboration, and rapid iteration drive real outcomes.
 
-Before transitioning into tech, I earned a basketball scholarship to Bacone College in Oklahoma—an experience that taught me discipline, resilience, and leadership. I bring that same competitive spirit into software engineering, where I enjoy exploring new technologies and turning ideas into polished, production-ready products.
+Before transitioning into tech, I earned a basketball scholarship to Bacone College in Oklahoma, a experience that taught me discipline, resilience, and leadership. I bring that same competitive spirit into software engineering, where I enjoy exploring new technologies and turning ideas into polished, production ready products.
 
 Outside of work, you’ll find me on the basketball court, in the kitchen trying new recipes, or shipping side projects to stay sharp.
 
