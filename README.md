@@ -63,8 +63,10 @@ Outside of work, you’ll find me on the basketball court, in the kitchen trying
 
 ## 🚀 Featured Projects
 
-- [**SNKR MRKT**](https://github.com/chrisbh4/snkr-mrkt) — Sneaker resale marketplace with real-time pricing and admin dashboards
+- [**Snkr Mrkt**](https://github.com/chrisbh4/SnkrMrkt) — Sneaker resale marketplace with real-time pricing and admin dashboards
 - [**Beachitt**](https://github.com/chrisbh4/beachitt) — Airbnb-style platform for beachfront vacation rentals
+- [**Farm to Fork**](https://github.com/chrisbh4/farm-to-fork) — Modern e-commerce platform connecting consumers directly with local farmers
+- [**GoodTunes**](https://github.com/chrisbh4/GoodTunes) - Digital music discovery and management application
 - [**Spotify Streaming Bot**](https://github.com/chrisbh4/spotify-streaming-bot) — Stream automation for music artists built with Elixir + LiveView
 
 ---
